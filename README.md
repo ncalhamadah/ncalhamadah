@@ -1,6 +1,6 @@
 <h1>Hey there, it's Nabil with you. <br/><a href="https://github.com/ncalhamadah">IT System Administrator</a></h1>
 
-<h2>👨‍💻 Web-designing:</h2>
+<h2>:page_with_curl: Wordpress Web-designing:</h2>
 
   - [FLB Overseas Employment Agency, Philippines](https://flboverseas.com)
   - [CareerFirst, Saudi Arabia](https://careerfirst.sa)
