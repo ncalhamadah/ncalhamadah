@@ -5,7 +5,7 @@
   - [FLB Overseas Employment Agency, Philippines](https://flboverseas.com)
   - [CareerFirst, Saudi Arabia](https://careerfirst.sa)
   
-  <h2>  <img width="28px" src="https://media.tenor.com/On7kvXhzml4AAAAi/loading-gif.gif"> Cybersecurity Track: (Working on it) </h2><br>
+  <br><h2>  <img width="28px" src="https://media.tenor.com/On7kvXhzml4AAAAi/loading-gif.gif"> Cybersecurity Track: (Working on it) </h2><br>
 
 <h2> 🤳 Connect with me:</h2>
 
