@@ -9,8 +9,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ncalhamadah | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="ncalhamadah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ncalhamadah | YouTube" width="28px" src="https://img.icons8.com/office/344/facebook-new.png" />][facebook]
+[<img align="left" alt="ncalhamadah | Instagram" width="28px" src="https://img.icons8.com/office/344/instagram-new.png" />][instagram]
 
 [instagram]: https://www.instagram.com/nbil5.0/
 [facebook]: https://www.facebook.com/bilNati0n/
